@@ -45,7 +45,7 @@ function forEach(array, cb) {
     cb(el);
 
   });
-  for(var i = 0; i <array.length ; i++) {
+  for(var i = 5; i <array.length ; i++) {
     cb(array[i]);
 
   }
